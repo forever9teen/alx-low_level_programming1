@@ -1,4 +1,4 @@
-#include <stdio.h>>
+#include <stdio.h>
 #include <time.h>
 /**
  *  * * Assign a random number to int
