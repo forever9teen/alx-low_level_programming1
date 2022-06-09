@@ -1,9 +1,9 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
  *  * * Main - Entry Point 
  *  * * Prints out the data types
- *  *  *Return: Always 0 (success)
- *   **/
+ *  *  * Return: Always 0 (success)
+ *    **/
 int main(void)
 {
 	int a;
