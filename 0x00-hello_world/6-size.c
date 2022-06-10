@@ -1,12 +1,11 @@
 #include <stdio.h>
 /**
- *  * * Main - Entry Point 
+ *  * * Main-Entry Point 
  *  * * Prints out the data types
  *  *  * Return: Always 0 (success)
  *    **/
 int main(void)
-{
-	int a;
+{       int a;
 	long int b;
 	long long int c;
 	char d;
