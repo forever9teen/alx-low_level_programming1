@@ -1,10 +1,11 @@
 #include <stdio.h>
 /**
- *  * * Main-Entry Point 
+ *  * * main - declaration of function
  *  * * Prints out the data types
  *  *  * Return: Always 0 (success)
  *    **/
 int main(void)
+
 {       int a;
 	long int b;
 	long long int c;
