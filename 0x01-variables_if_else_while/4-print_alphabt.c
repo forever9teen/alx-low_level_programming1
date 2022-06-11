@@ -9,9 +9,13 @@ int main(void)
 	char ch = 'a';
 
 	while (ch <= 'z')
+	{
 		if (ch != 'a' && ch != 'q')
+		{
 			putchar(ch);
+		}
 		ch++;
+	}
 	putchar(ch);
 	return (0);
 }
