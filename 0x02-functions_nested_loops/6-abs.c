@@ -10,4 +10,3 @@ int _abs(int)
 		n = -n;
 	return (n);
 }
-
