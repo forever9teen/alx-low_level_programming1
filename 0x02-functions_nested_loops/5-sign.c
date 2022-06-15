@@ -14,8 +14,9 @@ int print_sign(int n)
 	{	_putchar('0');
 		return (0);
 	}
-	else 
-	{	_putchar('-');
+	else
+	{
+		_Putchar('-');
 		return (-1);
 	}
 }
