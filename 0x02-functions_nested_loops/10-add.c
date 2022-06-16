@@ -5,7 +5,7 @@
  * * returns result
  * * *Returns: Always 0 (success)
  * **/
-int add(int, int)
+int add(int a, int b)
 {
 	int a = 89;
 	int b = 9;
