@@ -6,11 +6,11 @@
  * **/
 int add()
 {
-	int a;
-	int b;
+	int a = 89;
+	int b = 9;
+	int c = a+b;
 
-	n = a+b;
-	printf("%d + %d = %d\n", a,b,n);
+	printf("%d\n", c);
 	return (0);
 }
 
