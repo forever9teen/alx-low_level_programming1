@@ -2,16 +2,12 @@
 #include <stdio.h>
 /**
  * * *add - a function that adds two integers
- * * returns result
- * * *Returns: Always 0 (success)
+ * * @a: parameter1
+ * @b: parameter2
+ * * *Returns: returns a+b
  * **/
 int add(int a, int b)
 {
-	int a = 89;
-	int b = 9;
-	int c = a+b;
-
-	printf("%d\n", c);
-	return (0);
+	return (a+b);
 }
 
