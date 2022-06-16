@@ -15,7 +15,7 @@ void times_table(void)
 		{
 			c = y * b;
 			if (b == 0)
-				putchar(c + '0');
+				_putchar(c + '0');
 			if (b != 0 && c < 10)
 			{
 				_putchar(',');
@@ -23,7 +23,7 @@ void times_table(void)
 				_putchar(' ');
 				_putchar(c + '0');
 			}
-			else if (k >= 10)
+			else if (c >= 10)
 			{
 				_putchar(',');
 				_putchar(' ');
